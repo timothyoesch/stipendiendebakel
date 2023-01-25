@@ -1,0 +1,14 @@
+@import "fonts/fonts.scss";
+
+html {
+    font-family: "IBM Plex Sans", sans-serif;
+}
+
+p+p {
+    margin-top: 1.5em;
+}
+
+strong,
+b {
+    color: var(--secondary);
+}

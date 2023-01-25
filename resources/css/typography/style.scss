@@ -1,0 +1,6 @@
+@import "fonts/fonts.scss";
+
+html {
+    font-family: "IBM Plex Sans", sans-serif;
+    font-size: clamp(14px, 1.042vw, 20px);
+}

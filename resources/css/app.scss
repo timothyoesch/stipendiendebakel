@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import "./root.scss";
+@import "./elements/containers.scss";
+@import "./elements/buttons.scss";
+@import "./elements/heroine.scss";
+@import "./elements/petition.scss";
+@import "./elements/demands.scss";
+
+@import "./typography/typography.scss";
